@@ -24,7 +24,7 @@
   "dependencies": {
     "bootstrap": "^3.3.6",
     "bootstrap-select": "^1.13.10",
-    "jquery": "^1.11.2",
+    "jquery": "^3.5.0",
     "moment": "^2.24.0"
   }
 }
